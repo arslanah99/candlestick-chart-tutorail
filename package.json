@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "d3-dsv": "^1.2.0",
+    "d3-format": "^1.4.4",
+    "d3-scale": "^3.2.1",
+    "d3-time-format": "^2.2.3",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-stockcharts": "^0.7.8",
+    "shortid": "^2.2.15"
   },
   "scripts": {
     "start": "react-scripts start",
